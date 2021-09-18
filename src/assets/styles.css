@@ -1,0 +1,96 @@
+
+
+body { 
+  
+     color: #171717;
+     Font-family: Monospace;
+     background-repeat: no-repeat;
+     background-size: cover;
+    }
+    
+    #img1 {
+      background-image: url(https://raw.githubusercontent.com/LostnAustin/NewMortgage/master/tierra-mallorca.jpg);
+      background-size: cover; 
+    }
+    
+    
+    
+    
+    #form {}
+    
+    #h2 {
+      padding-top: 55px;
+      padding-right: 450px;
+    }
+    
+    #button {
+      background-color: rgb(255, 0, 0),
+    hsl(0, 100%, 50%);
+      color: #ffffcc;
+      text-shadow: 2px 2px black;
+      text-align: center;
+      Font-family: Monospace;
+      outline-style: outset solid;
+      display: inline-block;
+    }
+    
+    #button2 {
+       background-color: rgb(255, 0, 0),
+    hsl(0, 100%, 50%);
+      color: #ffffcc;
+    /*   text-shadow: 2px 2px black; */
+      text-align: center;
+      outline-style: outset solid;
+      display: inline-block;
+      border: 5px;
+      margin-top: 40px;
+      margin-right: 80px;
+      /* float: right; */
+      height: 70px;
+      
+    }
+    
+    #logo {
+      background-image: url(https://raw.githubusercontent.com/LostnAustin/NewMortgage/master/NewMortgage.png);
+      background-repeat: no-repeat;
+      float: left;
+      width: 300px;
+      padding-top: -1510px;
+    }
+    
+    
+    #table {
+    /*   display: block; */
+      /* text: center; */
+      color: #171717;
+     
+    }
+    
+    #banner {
+      display: block;
+      text-align: right;
+      color: whitesmoke;
+      background-color:#171717;
+      height: 145px;
+    }
+    
+    #footer {
+      position: float;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      text-align: left;
+      color: whitesmoke;
+      background-color:#171717;
+      height: 145px;
+    }
+    
+    span {
+      display: block;
+    }
+    
+    #text1 {
+      color:#171717;
+    }
+    
+    
